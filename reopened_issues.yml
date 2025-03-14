@@ -1,4 +1,6 @@
 ---
 issues:
-  - url: "https://github.com/hexlet-codebattle/codebattle/issues/2107"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/2107"--турнир не загружается
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/2054"--турнир не загружается
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/2029"--звук стандарт
   - url: ""
